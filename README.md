@@ -1,2 +1,3 @@
 # git-test
-first git repository
+first git repository 
+begin to use github
